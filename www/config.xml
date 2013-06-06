@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.aerynn.mobile"
+    id        = "erinbrassfield"
     versionCode="5"
     version   = "0.0.5">
-  <name>Mobile Examples</name>
+  <name>Brassfield</name>
   <description>
-    Mobile Application Examples
+    Erin Brassfield
   </description>
 
   <author href="http://aerynn.com" email="aerynn_music@gmail.com">
